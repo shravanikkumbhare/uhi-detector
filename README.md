@@ -3,7 +3,7 @@
 
 ### Using Deep Learning and satellite imagery to detect Urban Heat Island (UHI) effects
 
-_Final project for the Data Science Bootcamp at SPICED Academy, April-June 2023. By Jan Kühn_
+_Final year project by Shravani Kumbhare from G H Raisoni College , Pune 
 
 The **Urban Heat Island (UHI) effect** is a significant environmental issue that refers to the increased temperature in urban areas compared to their rural surroundings. This phenomenon is primarily caused by human activities, changes in land use, and built infrastructure. Dark surfaces, such as certain roofing materials, are known to absorb more solar radiation and contribute to elevated temperatures.
 
